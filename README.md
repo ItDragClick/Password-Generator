@@ -8,4 +8,9 @@
 
 > If it has any bug you can dm me in discord : **itdragclick**
 
- ![](.\image_2023-07-03_020834782.png)
+<div align="center" id="top"> 
+  <img src="./image_2023-07-03_020834782.png" alt="Anubis" />
+
+  &#xa0;
+
+</div>
