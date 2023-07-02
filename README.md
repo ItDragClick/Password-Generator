@@ -7,3 +7,5 @@
 - It has GUI and you only need to click generate button to generate password then click "Copy Password" buttion.
 
 > If it has any bug you can dm me in discord : **itdragclick**
+
+ ![](.\image_2023-07-03_020834782.png)
