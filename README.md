@@ -6,6 +6,10 @@
 
 - It has GUI and you only need to click generate button to generate password then click "Copy Password" buttion.
 
+
+# Thanks to Tester
+- [@RichterYT](https://github.com/RichterYT)
+
 > If it has any bug you can dm me in discord : **itdragclick**
 
 <div align="center" id="top"> 
