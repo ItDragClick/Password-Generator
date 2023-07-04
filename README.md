@@ -1,6 +1,6 @@
 
 # 🔑Password Generator🔑
-⭐This is better version of password generator from my old one.
+⭐This is a password generator with UI, I use only Python to create it and turn it into exe by Pyinstaller.
 
 - Because It has only one file no need to install just open it.
 
